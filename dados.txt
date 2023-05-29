@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Caio
+-Profissão: QA Tester
+-Cidade: São Paulo
+-O que faz nas horas vaga: Ler, jogar e assistir filmes.
+-Feedback sobre o curso Qualidade de Software: O curso tem melhorado muito com a inserção de aulas práticas, apesar de eu preferir que as partes teóricas fossem um pouco mais breves, mas isso poder ser por conta de eu já ter visto parte da matéria quando fiz a certificação.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma funciona, sem observações a se fazer.
 
 Obrigado!!!
 
